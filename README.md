@@ -10,6 +10,7 @@
 
 ### 如何使用？
 ``` node
+	yarn
 	yarn start
 ```
 
